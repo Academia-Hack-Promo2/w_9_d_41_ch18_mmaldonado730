@@ -1,0 +1,229 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+nav{
+    position: relative;
+    text-align: right;
+    background-color: #FFFFFF;
+    padding: 25px;
+    box-shadow: 2px 2px 2px #D8D8D8;
+}
+.menu li{
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.menu li a{
+    color: #000;
+    font-family: sans-serif;
+}
+
+.conten-logo{
+    position: absolute;
+    margin-left: 55px;
+    margin-top: -20px;
+    
+}
+
+#info{
+    position: relative;
+}
+.conten-info-c {
+  position: relative;
+  width: 390px;
+  height: 370px;
+  margin-top: 50px;
+  color: #FFF;
+  text-align: center;
+}
+
+#conten-info1{
+    position: absolute;
+    width: 390px;
+    height: 370px;
+    background: rgba(47, 3, 193, 0.5);
+    z-index: 3;
+    margin-top: 550px;
+}
+#conten-info2{
+    position: absolute;
+    width: 390px;
+    height: 370px;
+    background: rgba(92, 57, 208, 0.5);
+    z-index: 3;
+    margin-top: 550px;
+}
+#conten-info3{
+    position: absolute;
+    width: 390px;
+    height: 370px;
+    background: rgba(124, 94, 223, 0.5);
+    z-index: 3;
+    margin-top: 550px;
+}
+
+
+#slider {
+    position: absolute;
+    width: 100%;
+    height: 300px;
+    background-color: #ddf;
+    z-index: 1;
+}
+
+.desplasamiento-1{
+    margin-left: 50px;
+    margin-top: 525px;
+
+}
+.desplasamiento-2{
+    margin-left: 440px;
+    margin-top: 525px;
+}
+.desplasamiento-3{
+    margin-left: 830px;
+    margin-top: 525px;
+}
+#historiabotones{
+  width: 100%;
+  height: 200px;
+  position: relative;
+  margin-top: 980px;
+
+}
+#historia{
+  width: 75%;
+  height: 200px;
+  position: relative;
+  margin-top: 980px;
+  margin-left: 70px;
+}
+#botones {
+  width: 15%;
+  height: 200px;
+  position: relative;
+  margin-left: 1050px;
+  margin-top: -200px;
+}
+
+#flyer{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+#productos{
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.producto{
+  width: 390px;
+  height: 370px;
+  color: #0101DF;
+}
+.desplasamiento-p-1{
+    margin-left: 50px;
+    margin-top: 25px;
+    text-align: center;
+
+}
+.desplasamiento-p-2{
+    margin-left: 440px;
+    margin-top: -392px;
+    text-align: center;
+}
+.desplasamiento-p-3{
+    margin-left: 830px;
+    margin-top: -392px;
+    text-align: center;
+}
+#tx-p{
+  margin-left: 70px;
+}
+.img-marco{
+  border:solid; 
+  border-color: #F2F2F2;
+  width: 300px;
+  height: 300px;
+  margin-left: 40px;
+  text-align: center;
+}
+.img-top{
+  margin-top: 100px;
+}
+.boton-pdf {
+  width: 300px;
+  height: 50px;
+  margin-top: 10px;
+  border: 0;
+  background-color: #DF0101;
+  text-align: right;
+  padding-right: 50px;
+}
+.boton-h{
+  width: 175px;
+  height:  50px;
+  margin-top: 10px;
+  border: 0;
+}
+.pdf-izq {
+  margin-right: 220px;
+  margin-top: 12px;
+}
+.tex-pdf{
+  margin-top: -15px;
+}
+.desplasamiento-p-1-v{
+    margin-left: 700px;
+    margin-top: 25px;
+    text-align: center;
+}
+#contacto {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background-color: #2731A2;
+  margin-top: 200px;
+  color: #FFF;
+}
+
+.conten-input {
+  padding: 8px;
+  text-align: left;
+  width: 800px;
+  margin-left: 50px;
+}
+
+.conten-input input,textArea{
+    width: 90%;
+    background-color: #1A2169;
+    padding: 12px;
+
+} 
+#formulario{
+  height: 100%
+
+}
+
+.boton-enviar{
+  width: 30%;
+  margin-left: 55px;
+}
+
+.boton-E{
+  width: 175px;
+  height:  50px;
+  margin-top: 10px;
+  border: 0;
+  background-color: #DF0101;
+}
+.direccion{
+  width: 100%;
+  height: 100%
+}
